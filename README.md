@@ -34,12 +34,13 @@ Este aplicativo foi desenvolvido por christiane Gozza.
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
-versõa web
-![image](https://github.com/chritianegozza/aula05-REact-Native/assets/72118415/16aed3aa-3721-43fb-9042-
-b300790f4126)
+## versão web
+![image](https://github.com/chritianegozza/aula05-REact-Native/assets/72118415/16aed3aa-3721-43fb-9042-b300790f4126)
 
-versão app
+
+## versão app
 ![image](https://github.com/chritianegozza/aula05-REact-Native/assets/72118415/65609cee-978c-4f9b-b7c2-55352bf02b21)
+
 
 
 ![image](https://github.com/chritianegozza/aula05-REact-Native/assets/72118415/875debee-b017-41fb-ad02-27f74ca163be)
